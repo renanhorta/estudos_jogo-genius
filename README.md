@@ -10,5 +10,4 @@ Jogo Genius
 
 <p>
 Projeto de estudo criando um jogo genius simples. Com Js, CSS e html.
-VocÊ pode entrar no projeto por nesse <a href="#" target="_blank">link</a>
 </p>
