@@ -2,7 +2,7 @@
 
 <h1 align="center">
 <br>
-  <img src="./images/Genius.png" alt="Jogo Genius" width="200">
+  <img src="./Genius.png" alt="Jogo Genius" width="450">
 <br>
 <br>
 Jogo Genius
